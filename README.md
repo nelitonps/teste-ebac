@@ -5,3 +5,4 @@ Primeiro exemplo de commit.
 
 Segundo commit.
 Terceiro commite.
+Quarto commit.
